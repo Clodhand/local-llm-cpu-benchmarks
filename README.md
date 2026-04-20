@@ -16,7 +16,7 @@ L’objectif est simple : identifier quels modèles GGUF restent réellement int
 ## Contenu
 
 - [Rapport complet](docs/rapport-final.md)
-- [Annexe — tests de capacité](docs/annexe-tests-capacite.md)
+- [Annexe — tests de capacité](docs/i7-7700/annexe-tests-capacite.md)
 - [Annexe — benchmarks techniques](docs/annexe-bench-techniques.md)
 
 ## Méthode
